@@ -66,5 +66,4 @@ tests/*.log
 
 session.json
 run_tests.ps1
-config.bat
 node_modules
